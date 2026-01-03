@@ -1,17 +1,14 @@
-# PDS-Mini_Project
-End-to-end data analysis using Python (Classification &amp; Regression)
+# PDS Mini Project
 
-This repository contains end-to-end data analysis projects as part of 
+This repository contains end-to-end data analysis projects done as part of
 Python for Data Science (PDS).
 
-## Projects Included
-
-### 1. Iris Dataset – Classification
+## 1. Iris Dataset – Classification
 - Task: Predict flower species
 - Model: Logistic Regression
-- Evaluation: Accuracy, Precision, Recall, F1-score
+- Evaluation: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
-### 2. Salary Dataset – Regression
+## 2. Salary Dataset – Regression
 - Task: Predict salary
 - Model: Linear Regression
 - Evaluation: MSE, RMSE, R² Score
@@ -25,4 +22,5 @@ Python for Data Science (PDS).
 - Scikit-learn
 - VS Code
 - Jupyter Notebook
+
 
